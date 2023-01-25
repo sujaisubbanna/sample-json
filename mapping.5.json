@@ -1,0 +1,515 @@
+{
+  "Roboto": {
+    "displayName": "Roboto",
+    "path": "Roboto/Roboto-Regular.ttf",
+    "family": "Roboto",
+    "hash": "017c0be9aaa6d0359737e1fa762ad304c0e0107927faff5a6c1f415c7f5244ed",
+    "size": 171272,
+    "isPremium": false
+  },
+  "Days One": {
+    "displayName": "Days",
+    "path": "Days_One/DaysOne-Regular.ttf",
+    "family": "Days One",
+    "hash": "0e8f13e2c64cbc73b471e7b56b3404f5bbfe89ac5618b257241b74c0e52f3d99",
+    "size": 63380,
+    "isPremium": false
+  },
+  "Artifika": {
+    "displayName": "Artifika",
+    "path": "Artifika/Artifika-Regular.ttf",
+    "family": "Artifika",
+    "hash": "a39e42830e5b0b1327a053224970058be3c57a81984b4fc92d018303790ed3ce",
+    "size": 84196,
+    "isPremium": false
+  },
+  "Vast Shadow": {
+    "displayName": "Shadow",
+    "path": "Vast_Shadow/VastShadow-Regular.ttf",
+    "family": "Vast Shadow",
+    "hash": "5ce2ac776fa39ebba0f1b8faa4f777586c105233921db7f278f555eb01d2e03b",
+    "size": 59512,
+    "isPremium": false
+  },
+  "Bungee": {
+    "displayName": "Bungee",
+    "path": "Bungee/Bungee-Regular.ttf",
+    "family": "Bungee",
+    "hash": "8703e361ba72581826697b737d7d311400867f9d2498018b993c963dc4d1a2f0",
+    "size": 125120,
+    "isPremium": false
+  },
+  "Cinzel Decorative": {
+    "displayName": "Cinzel",
+    "path": "Cinzel_Decorative/CinzelDecorative-Regular.ttf",
+    "family": "Cinzel Decorative",
+    "hash": "97191bd1ea94cce448853b6db0135e80cd7e91b0bc05c8bc3cee8030d41e1ae2",
+    "size": 58828,
+    "isPremium": false
+  },
+  "Bebas Neue": {
+    "displayName": "Bebas",
+    "path": "Bebas/BebasNeue-Regular.ttf",
+    "family": "Bebas Neue",
+    "hash": "830ea186acffc2316ed1a4e42319246ba3b46b04e33a211079249bf901193f04",
+    "size": 57676,
+    "isPremium": false
+  },
+  "Crimson Text": {
+    "displayName": "Crimson",
+    "path": "Crimson_Text/CrimsonText-Regular.ttf",
+    "family": "Crimson Text",
+    "hash": "7f8659a752e5daf18d667979b6308415663da22301827dc30ad384a6b03311a1",
+    "size": 106512,
+    "isPremium": false
+  },
+  "Amiri": {
+    "displayName": "Amiri",
+    "path": "Amiri/Amiri-Regular.ttf",
+    "family": "Amiri",
+    "hash": "4d3c30c7266adcfe434993a07f18ff94e012cb5a36722fb4eeab299188221201",
+    "size": 440772,
+    "isPremium": false
+  },
+
+  "Forum": {
+    "displayName": "Forum",
+    "path": "Forum/Forum-Regular.ttf",
+    "family": "Forum",
+    "hash": "c2835ec649037bec0c79e507639c8adbaccecf2e2fd80a6931c31dba9c9e8371",
+    "size": 241604,
+    "isPremium": false
+  },
+  "Syne": {
+    "displayName": "Syne",
+    "path": "Syne/Syne-VariableFont_wght.ttf",
+    "family": "Syne",
+    "hash": "00b83643409d92f1829c0a9b5e0ec2b802902c86b29176fd7869887461086462",
+    "size": 68464,
+    "isPremium": false
+  },
+  "Audiowide": {
+    "displayName": "Audiowide",
+    "path": "Audiowide/Audiowide-Regular.ttf",
+    "family": "Audiowide",
+    "hash": "759591dea91e19b9dd8e0a0cf99e3ce8d888d2e3edf4cc408ba2dfa2ca81aef0",
+    "size": 47616,
+    "isPremium": false
+  },
+  "Inter": {
+    "displayName": "Inter",
+    "path": "Inter/Inter-VariableFont_slnt,wght.ttf",
+    "family": "Inter",
+    "hash": "b9a8e5e213977665be2a56db66945a16c686da3d9861af1e7851322cf15495ea",
+    "size": 803384,
+    "isPremium": false
+  },
+  "Monoton": {
+    "displayName": "Monoton",
+    "path": "Monoton/Monoton-Regular.ttf",
+    "family": "Monoton",
+    "hash": "f4ac28dc1d4ae31c9d01801111bfbc28d4c3138cdf94d044ca2a9a235ca1609b",
+    "size": 49904,
+    "isPremium": false
+  },
+  "Carter One": {
+    "displayName": "Carter",
+    "path": "Carter_One/CarterOne-Regular.ttf",
+    "family": "Carter One",
+    "hash": "de668403756daa50a40f4a9d561cf5bbf7b9bc6908bf59cf2b443407da53375f",
+    "size": 64792,
+    "isPremium": false
+  },
+  "Alfa Slab One": {
+    "displayName": "Alfa",
+    "path": "Alfa_Slab_One/AlfaSlabOne-Regular.ttf",
+    "family": "Alfa Slab One",
+    "hash": "283480327b9399995478f449098ee9be6936a96802f8f683601362fcfeddc48c",
+    "size": 92808,
+    "isPremium": false
+  },
+  "Quicksand": {
+    "displayName": "Quicksand",
+    "path": "Quicksand/Quicksand-Regular.ttf",
+    "family": "Quicksand",
+    "hash": "dd612bdcf68fde51539d6e6210bfc8c3e8def69a7b089f2619f4a4167cce86df",
+    "size": 77420,
+    "isPremium": false
+  },
+  "Racing Sans One": {
+    "displayName": "Racing",
+    "path": "Racing_Sans_One/RacingSansOne-Regular.ttf",
+    "family": "Racing Sans One",
+    "hash": "4b6462560122ad3cf4271b089e0c9e61548c5b310e22ceddc9508ae8ad9ce755",
+    "size": 130080,
+    "isPremium": false
+  },
+  "Shrikhand": {
+    "displayName": "Shrikhand",
+    "path": "Shrikhand/Shrikhand-Regular.ttf",
+    "family": "Shrikhand",
+    "hash": "4db1efddf1f3b5bb1038b46959d854adb1863ade2dc4ba2baa18017d1cb94bcd",
+    "size": 213824,
+    "isPremium": false
+  },
+  "Pacifico": {
+    "displayName": "Pacifico",
+    "path": "Pacifico/Pacifico-Regular.ttf",
+    "family": "Pacifico",
+    "hash": "d088008aa13be680163475cf5b25acea187d1c332ea54ecd623fac99dc218c4c",
+    "size": 315044,
+    "isPremium": false
+  },
+  "Luckiest Guy": {
+    "displayName": "Luckiest",
+    "path": "Luckiest_Guy/LuckiestGuy-Regular.ttf",
+    "family": "Luckiest Guy",
+    "hash": "27642d3c0ef4bb18602b9b525df500d60f0c2c83b47f50512dd3aa48de0ea1a4",
+    "size": 58292,
+    "isPremium": false
+  },
+  "Courgette": {
+    "displayName": "Courgette",
+    "path": "Courgette/Courgette-Regular.ttf",
+    "family": "Courgette",
+    "hash": "f76ab484a1db368ce8907f8300bea2d0ecb78fa0f71235d0dc8ffc79749b9d90",
+    "size": 118784,
+    "isPremium": false
+  },
+  "Cabin Sketch": {
+    "displayName": "Cabin",
+    "path": "Cabin_Sketch/CabinSketch-Regular.ttf",
+    "family": "Cabin Sketch",
+    "hash": "d805ae65d564c51d11164d21fa0ec2e392e069f81ca5c8ad2a00b4a064f18b4c",
+    "size": 154544,
+    "isPremium": false
+  },
+  "Poppins": {
+    "displayName": "Poppins",
+    "path": "Poppins/Poppins-Regular.ttf",
+    "family": "Poppins",
+    "hash": "707fdc5c8bab57a90061c6a8ed7b70d5ffb82fc810e994e79f90bace890c255a",
+    "size": 158240,
+    "isPremium": false
+  },
+  "Rock Salt": {
+    "displayName": "Rock",
+    "path": "Rock_Salt/RockSalt-Regular.ttf",
+    "family": "Rock Salt",
+    "hash": "770a94e11e3d812dcf4cb7de614be410521e7dc8bc81c144774a90033877a523",
+    "size": 119304,
+    "isPremium": false
+  },
+  "Satoshi": {
+    "displayName": "Satoshi",
+    "path": "Satoshi/Satoshi-Regular.ttf",
+    "family": "Satoshi",
+    "hash": "243b23f64087e91868b726e9980621727b9e938c1c773d2b1ef32760ea8b7f07",
+    "size": 73476,
+    "isPremium": false
+  },
+  "Prompt": {
+    "displayName": "Prompt",
+    "path": "Prompt/Prompt-Regular.ttf",
+    "family": "Prompt",
+    "hash": "6ae3ade108d176c0f64d9b318cca00665275308a2cf33845b35e0bf6666edaab",
+    "size": 162624,
+    "isPremium": false
+  },
+  "Slackey": {
+    "displayName": "Slackey",
+    "path": "Slackey/Slackey-Regular.ttf",
+    "family": "Slackey",
+    "hash": "9bccb1798d3d936470b62e88c4272875855ed00127f395d9a9d04b13605086b3",
+    "size": 36836,
+    "isPremium": false
+  },
+  "Itim": {
+    "displayName": "Itim",
+    "path": "Itim/Itim-Regular.ttf",
+    "family": "Itim",
+    "hash": "a6cc05a4f8da6ff2ae4b50b2209b387e1dc43e430cbf0dc263c063da7d6b023d",
+    "size": 362640,
+    "isPremium": false
+  },
+  "Permanent Marker": {
+    "displayName": "Permanent",
+    "path": "Permanent_Marker/PermanentMarker-Regular.ttf",
+    "family": "Permanent Marker",
+    "hash": "4a613a4e0a67ad9c48ee6bbf664a59f73450069ad27c08d4ed21e1b9b1893590",
+    "size": 73620,
+    "isPremium": false
+  },
+  "Architects Daughter": {
+    "displayName": "Architects",
+    "path": "Architects_Daughter/ArchitectsDaughter-Regular.ttf",
+    "family": "Architects Daughter",
+    "hash": "8116fb167643f707c4a99f544e9bcdb9cb7ba00c0a72c9bbc9e0b20966ed9810",
+    "size": 37632,
+    "isPremium": false
+  },
+  "Press Start 2P": {
+    "displayName": "Press",
+    "path": "Press_Start_2P/PressStart2P-Regular.ttf",
+    "family": "Press Start 2P",
+    "hash": "1732cbf0b83525ca6769c3a58d15de73f38122ed8c056ca7e30a6076767ef3d6",
+    "size": 116008,
+    "isPremium": false
+  },
+  "Bubblegum Sans": {
+    "displayName": "Bubblegum",
+    "path": "Bubblegum_Sans/BubblegumSans-Regular.ttf",
+    "family": "Bubblegum Sans",
+    "hash": "36c29938ed69e1d82bff352637b2b899cf808d400b78111f01e6400e90c32cb1",
+    "size": 37288,
+    "isPremium": false
+  },
+  "IBM Plex Serif": {
+    "displayName": "IBM",
+    "path": "IBM_Plex_Serif/IBMPlexSerif-Regular.ttf",
+    "family": "IBM Plex Serif",
+    "hash": "5604150aba3825da8219c5a7fbd18e72beaee8576cf9372accc78d9185db5e06",
+    "size": 160352,
+    "isPremium": false
+  },
+  "Open Sans": {
+    "displayName": "Open",
+    "path": "Open_Sans/OpenSans-Regular.ttf",
+    "family": "Open Sans",
+    "hash": "037236ed4bf58a85f67074c165d308260fd6be01c86d7df4e79ea16eb273f8c5",
+    "size": 96932,
+    "isPremium": false
+  },
+  "Courier Prime": {
+    "displayName": "Courier",
+    "path": "Courier_Prime/CourierPrime-Regular.ttf",
+    "family": "Courier Prime",
+    "hash": "16c3b24e173a21f23bdab9d50b5a49dc138e2b80789e010c7f29272b23e0634b",
+    "size": 68128,
+    "isPremium": false
+  },
+  "Alex Brush": {
+    "displayName": "Alex",
+    "path": "Alex/AlexBrush-Regular.ttf",
+    "family": "Alex Brush",
+    "hash": "b43e8fe8497f460b2939c0471ca6ae72380a95bd51f888092b97db4c55e0a6ba",
+    "size": 62268,
+    "isPremium": false
+  },
+  "Archivo Black": {
+    "displayName": "Archivo",
+    "path": "Archivo/ArchivoBlack-Regular.ttf",
+    "family": "Archivo Black",
+    "hash": "eebc45532e97d1c28998f1a44029562452df7fecc20401ad2eb06f53126a2602",
+    "size": 89160,
+    "isPremium": false
+  },
+  "Dancing Script": {
+    "displayName": "Dancing",
+    "path": "Dance/DancingScript-Regular.ttf",
+    "family": "Dancing Script",
+    "hash": "34035423671b40ef458ce99bd244186e6a1a7660a2064a1677dded8b294acd1c",
+    "size": 80900,
+    "isPremium": false
+  },
+  "Kaushan Script": {
+    "displayName": "Kaushan",
+    "path": "Kaushan/KaushanScript-Regular.ttf",
+    "family": "Kaushan Script",
+    "hash": "e4e5d5ae35aeef6d2a1f8ba99bad6d716cab67eb9a4cbf349b670008e2c086f5",
+    "size": 183972,
+    "isPremium": false
+  },
+  "Lobster": {
+    "displayName": "Lobster",
+    "path": "Lobster/Lobster-Regular.ttf",
+    "family": "Lobster",
+    "hash": "cddd7779fb2e78382a654f91dd5a656218cf133a244e17a2f5d960c06f95d73c",
+    "size": 396740,
+    "isPremium": false
+  },
+  "Orelega One": {
+    "displayName": "Orelega",
+    "path": "Orelega/OrelegaOne-Regular.ttf",
+    "family": "Orelega One",
+    "hash": "8fe4cd115d17943093bdb9916ddb6e6cc85047860a8b3b838d71ce559da63374",
+    "size": 131408,
+    "isPremium": false
+  },
+  "Playfair Display": {
+    "displayName": "Playfair",
+    "path": "Playfair/PlayfairDisplay-VariableFont_wght.ttf",
+    "family": "Playfair Display",
+    "hash": "4dd06c308dd62d13d199bb8cf150ffc9247ebcaab690aef26a26c4ea79ae194c",
+    "size": 298268,
+    "isPremium": false
+  },
+  "Beau Rivage": {
+    "displayName": "Beau",
+    "path": "Veau/BeauRivage-Regular.ttf",
+    "family": "Beau Rivage",
+    "hash": "1e6d693b21e818bd4a026207aa8c91301291286c7729978e11ea5df239b1a93e",
+    "size": 235952,
+    "isPremium": false
+  },
+  "Metropolis": {
+    "displayName": "Metropolis",
+    "path": "Metropolis/Metropolis-Regular.otf",
+    "family": "Metropolis",
+    "hash": "6f8992eb58eeced41efea7076be4d468ac678f9778420438fab4a3358aa2b462",
+    "size": 23124,
+    "isPremium": false
+  },
+  "Sofia Pro": {
+    "displayName": "Sofia",
+    "path": "Sofia/Sofia-Pro-Regular-Az.otf",
+    "family": "Sofia Pro",
+    "hash": "5353dd5802fc4075499288ea296262fc250f8a2942908e2f6adf8adf7c9a7f61",
+    "size": 140748,
+    "isPremium": false
+  },
+  "Euclid Circular A": {
+    "displayName": "Euclid",
+    "path": "Euclid/Euclid-Circular-A-Regular.ttf",
+    "family": "Euclid Circular A",
+    "hash": "ee7a49a45e6b2d68e30adeef7a4ebe52ca94bcb8ba801bef76719b5083d7941a",
+    "size": 141264,
+    "isPremium": false
+  },
+  "Chelsea Market": {
+    "displayName": "Chelsea",
+    "path": "Chelsea_Market/ChelseaMarket-Regular.ttf",
+    "family": "Chelsea Market",
+    "hash": "fa7f19022a255cc7ed4b252ecb2ea64a67d89ead9e278047081a45b60a20f9f0",
+    "size": 171588,
+    "isPremium": false
+  },
+  "Comic Neue": {
+    "displayName": "Comic Neue",
+    "path": "Comic_Neue/ComicNeue-Regular.ttf",
+    "family": "Comic Neue",
+    "hash": "e4f99242195800cc7471d1e7ac47960d1eb1cec8f0f147598a51f01b428f7d3c",
+    "size": 54808,
+    "isPremium": false
+  },
+  "Gloria Hallelujah": {
+    "displayName": "Gloria Hallelujah",
+    "path": "Gloria_Hallelujah/GloriaHallelujah-Regular.ttf",
+    "family": "Gloria Hallelujah",
+    "hash": "cdfa988ab57b128dc0eaa25e58767be980e2a0e6a2fb31b4d5c23196729eddff",
+    "size": 54100,
+    "isPremium": false
+  },
+  "Montserrat": {
+    "displayName": "Montserrat",
+    "path": "Montserrat/Montserrat-Regular.ttf",
+    "family": "Montserrat",
+    "hash": "077cdab15161232a9ba7124d2ddd7a9425145750788e9a966c156cc66274f525",
+    "size": 245708,
+    "isPremium": false
+  },
+  "Roboto Slab": {
+    "displayName": "Roboto Slab",
+    "path": "Roboto_Slab/RobotoSlab-Regular.ttf",
+    "family": "Roboto Slab",
+    "hash": "fc73ddfc084b2f45573a63356aabf792abd0734f02667b737062e067797ca9bd",
+    "size": 172696,
+    "isPremium": false
+  },
+  "VT323": {
+    "displayName": "VT323",
+    "path": "VT323/VT323-Regular.ttf",
+    "family": "VT323",
+    "hash": "9a7f5a19dca6d220cf55486bd30e91b49d184de494b0ded3cd7faffd95610556",
+    "size": 149464,
+    "isPremium": false
+  },
+  "Josefin Slab": {
+    "displayName": "Josefin Slab",
+    "path": "Josefin_Slab/JosefinSlab-Regular.ttf",
+    "family": "Josefin Slab",
+    "hash": "29d345790d0a6c3d18b62748fdca41faf6677da83bc50d7b79f48e11b9407cfb",
+    "size": 22356,
+    "isPremium": false
+  },
+  "Yellowtail": {
+    "displayName": "Yellowtail",
+    "path": "Yellowtail/Yellowtail-Regular.ttf",
+    "family": "Yellowtail",
+    "hash": "ae76ccb0d3371de6bcf794a63dd5806e75e9f418aa23d8543d118577988e0703",
+    "size": 60864,
+    "isPremium": false
+  },
+  "Lato": {
+    "displayName": "Lato",
+    "path": "Lato/Lato-Regular.ttf",
+    "family": "Lato",
+    "hash": "ea8979c22cf1d830e3ff939aadd49cc4d78c851e3cb59d2aa95ea10ee752d5d1",
+    "size": 75136,
+    "isPremium": false
+  },
+  "Noto Color Emoji": {
+    "displayName": "Noto Color Emoji",
+    "path": "Noto Color Emoji/NotoColorEmoji.ttf",
+    "family": "Noto Color Emoji",
+    "hash": "51da2306a672b8869e08e8ada2d0c57ed04b29d94b3a6118880da8f6626bc44c",
+    "size": 9655756,
+    "isPremium": false
+  },
+  "Hind Guntur": {
+    "displayName": "Hind Guntur",
+    "path": "Hind_Guntur/HindGuntur-Regular.ttf",
+    "family": "Hind Guntur",
+    "hash": "0239699a61309f664bf37586daba6b71d70af8bbca355d489dba572a5207cdf4",
+    "size": 319480,
+    "isPremium": false
+  },
+  "Mukta Malar": {
+    "displayName": "Mukta Malar",
+    "path": "Mukta_Malar/MuktaMalar-Regular.ttf",
+    "family": "Mukta Malar",
+    "hash": "74d1504237b7b865a16046db1c3429a7e5822a33f1f16199d2232e1984043060",
+    "size": 224284,
+    "isPremium": false
+  },
+  "Manjari": {
+    "displayName": "Manjari",
+    "path": "Manjari/Manjari-Regular.ttf",
+    "family": "Manjari",
+    "hash": "2185a99faad8b9241f537fcc6bc65f74214ee5a8e4030ae4d23f57758f9fc9a4",
+    "size": 150660,
+    "isPremium": false
+  },
+  "Rubik": {
+    "displayName": "Rubik",
+    "path": "Rubik/Rubik-Regular.ttf",
+    "family": "Rubik",
+    "hash": "3fe0574900e2c4eb4b587e8a37ce88d1918326debb4c70e73a48aac40dacb1b2",
+    "size": 124236,
+    "isPremium": false
+  },
+  "Tajawal": {
+    "displayName": "Tajawal",
+    "path": "Tajawal/Tajawal-Regular.ttf",
+    "family": "Tajawal",
+    "hash": "e04f9ee8d10ee25525bfbb4c44f856853568bd39de59c7bc9a2da1683fee01c3",
+    "size": 56088,
+    "isPremium": false
+  },
+  "Poor Story": {
+    "displayName": "Poor Story",
+    "path": "Poor_Story/PoorStory-Regular.ttf",
+    "family": "Poor Story",
+    "hash": "fb45708fdb94dea23b96a6724cd2db7616b51d0df2104eb09d6a5b5aedacc822",
+    "size": 3965668,
+    "isPremium": false
+  },
+  "Rasa": {
+    "displayName": "Rasa",
+    "path": "Rasa/Rasa-VariableFont_wght.ttf",
+    "family": "Rasa",
+    "hash": "20b0db2d025a8de2442853ea2cbec991d60070d314a022087eed939cf49f3d9e",
+    "size": 471452,
+    "isPremium": false
+  }
+}
